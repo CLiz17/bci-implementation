@@ -1,4 +1,4 @@
-# OpenBCI UltraCortex
+# Brain Computer Interfacing (BCI) using OpenBCI Ultracortex
 
 #### PROCEDURES
 
