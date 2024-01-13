@@ -23,3 +23,6 @@
 - The following command will install the packages according to the configuration file requirements.txt present in the project folder.
 
 `$ pip install -r requirements.txt`
+
+#### RESULT
+<img height=300px src="https://github.com/CLiz17/bci-implementation/assets/68838221/c12422ca-a735-43fe-9c33-20277c841ed3">
